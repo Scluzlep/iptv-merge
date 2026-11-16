@@ -1,0 +1,109 @@
+{
+  "generated_at_utc": "2026-11-16T11:52:52+00:00",
+  "validation": "URL format and public address checks; backup ranking; URL dedup; DNS-family lookup. No bandwidth/stream tests.",
+  "count": {
+    "all": 14425,
+    "china": 2486,
+    "global": 13514,
+    "loop": 2187,
+    "ipv4": 13949,
+    "ipv6": 4776
+  },
+  "candidates": 16640,
+  "discarded": {
+    "duplicate": 340,
+    "backup_cap": 300
+  },
+  "sources": [
+    {
+      "name": "guovin-ipv4",
+      "entries": 473,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "guovin-ipv6",
+      "entries": 1300,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "fanmingming-ipv6",
+      "entries": 82,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "fanmingming-mix",
+      "entries": 94,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "fanmingming-itv",
+      "entries": 189,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "yang-gather",
+      "entries": 123,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "nekori",
+      "entries": 492,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-world",
+      "entries": 11487,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-pluto-us",
+      "entries": 400,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-samsung-us",
+      "entries": 407,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-pluto-gb",
+      "entries": 0,
+      "ok": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "name": "iptv-org-movies",
+      "entries": 777,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-series",
+      "entries": 525,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-animation",
+      "entries": 185,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "name": "iptv-org-classic",
+      "entries": 106,
+      "ok": true,
+      "error": ""
+    }
+  ]
+}
