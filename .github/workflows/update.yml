@@ -1,0 +1,68 @@
+name: IPTV merge and rolling release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update.yml'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'sources.json'
+  workflow_dispatch:
+  schedule:
+    # 00:17, 06:17, 12:17 and 18:17 UTC daily; scheduled jobs may be delayed.
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-merge-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Build curated playlists (no stream speed test)
+        run: python scripts/merge.py
+      - name: Commit refreshed playlists to main for jsDelivr
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add output .previous_count.json
+          if git diff --cached --quiet; then
+            echo 'Nothing changed'
+          else
+            git commit -m 'chore: refresh IPTV playlists [skip ci]'
+            git push origin HEAD:main
+          fi
+      - name: Publish or update rolling GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          assets=(output/all.m3u output/china.m3u output/global.m3u output/loop.m3u output/ipv4.m3u output/ipv6.m3u output/stats.json)
+          if gh release view live >/dev/null 2>&1; then
+            gh release upload live "${assets[@]}" --clobber
+            gh release edit live --title 'IPTV 直播源 · 滚动更新' --notes-file output/release-notes.md --latest
+          else
+            gh release create live "${assets[@]}" \
+              --target main \
+              --title 'IPTV 直播源 · 滚动更新' \
+              --notes-file output/release-notes.md \
+              --latest
+          fi

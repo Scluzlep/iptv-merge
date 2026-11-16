@@ -1,0 +1,17 @@
+[
+  {"name":"guovin-ipv4", "url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u", "scope":"china", "priority":110},
+  {"name":"guovin-ipv6", "url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u", "scope":"china", "priority":110},
+  {"name":"fanmingming-ipv6", "url":"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u", "scope":"china", "priority":105},
+  {"name":"fanmingming-mix", "url":"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u", "scope":"china", "priority":98},
+  {"name":"fanmingming-itv", "url":"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u", "scope":"china", "priority":96},
+  {"name":"yang-gather", "url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", "scope":"china", "priority":80},
+  {"name":"nekori", "url":"https://raw.githubusercontent.com/Nekori/TV/master/A_TV.m3u", "scope":"china", "priority":65},
+  {"name":"iptv-org-world", "url":"https://iptv-org.github.io/iptv/index.m3u", "scope":"global", "priority":75},
+  {"name":"iptv-org-pluto-us", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u", "scope":"loop", "priority":90},
+  {"name":"iptv-org-samsung-us", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u", "scope":"loop", "priority":90},
+  {"name":"iptv-org-pluto-gb", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gb_pluto.m3u", "scope":"loop", "priority":85},
+  {"name":"iptv-org-movies", "url":"https://iptv-org.github.io/iptv/categories/movies.m3u", "scope":"loop", "priority":83},
+  {"name":"iptv-org-series", "url":"https://iptv-org.github.io/iptv/categories/series.m3u", "scope":"loop", "priority":83},
+  {"name":"iptv-org-animation", "url":"https://iptv-org.github.io/iptv/categories/animation.m3u", "scope":"loop", "priority":80},
+  {"name":"iptv-org-classic", "url":"https://iptv-org.github.io/iptv/categories/classic.m3u", "scope":"loop", "priority":80}
+]
