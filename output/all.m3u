@@ -4994,6 +4994,8 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="轮播 / FAST · 影视动漫",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@CA" group-title="轮播 / FAST · 影视动漫",48 Hours
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="轮播 / FAST · Series",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@CA" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="轮播 / FAST · Series",48 Hours CA
@@ -5072,6 +5074,8 @@ https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfraSeries.ir@SD" tvg-logo="" group-title="轮播 / FAST · Series",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Aftershock
+https://jmp2.uk/plu-63e36b374e83e70008987c58.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",AFV with Alfonso Ribeiro
 https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AlankarTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Alankar TV
@@ -5086,6 +5090,8 @@ https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ALLBLKGems.us@SD" group-title="轮播 / FAST · 影视动漫",ALLBLK Gems
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",All My Children
+https://jmp2.uk/plu-69b03041cafd86d9dc5763c3.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" group-title="轮播 / FAST · Movies",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",All Out Reality
@@ -5130,14 +5136,20 @@ https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="轮播 / FAST · Movies",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",American Pickers
+https://jmp2.uk/plu-6408ae8f9b39550008caf94f.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",American Pickers by History
 https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",America's Funniest Home Videos
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",America's Funniest Home Videos
+https://jmp2.uk/plu-69172f1699758a0f03459c5b.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",America's Got Talent
 https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us@SD" group-title="轮播 / FAST · 影视动漫",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+#EXTINF:-1 tvg-id="AmericasNextTopModel.us@CA" group-title="轮播 / FAST · 影视动漫",America's Next Top Model
+https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" group-title="轮播 / FAST · 影视动漫",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" group-title="轮播 / FAST · 影视动漫",America's Test Kitchen
@@ -5150,12 +5162,14 @@ https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Ancient Aliens
 https://pb-pp8kvdgef1gx5.akamaized.net/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="轮播 / FAST · Series",Andromeda
+#EXTINF:-1 tvg-id="Andromeda.us@Spain" group-title="轮播 / FAST · 影视动漫",Andromeda
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="轮播 / FAST · Series",Andromeda Italy
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="轮播 / FAST · Series",Andromeda UK
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" group-title="轮播 / FAST · 影视动漫",Anger Management
+https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="轮播 / FAST · Comedy;Series",Anger Management Channel
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us@SD" group-title="轮播 / FAST · 影视动漫",Animation+
@@ -5174,20 +5188,28 @@ https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg@SD" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="轮播 / FAST · Animation",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us@UK" tvg-logo="https://i.imgur.com/dAO9llk.png" group-title="轮播 / FAST · Series",Anthony Bourdain: Parts Unknown
+#EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us@UK" group-title="轮播 / FAST · 影视动漫",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" group-title="轮播 / FAST · 影视动漫",Antiques Roadshow UK
 https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" group-title="轮播 / FAST · 影视动漫",Antiques Roadshow UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Antiques Road Show UK
+https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" group-title="轮播 / FAST · Series",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" group-title="轮播 / FAST · 影视动漫",Antiques Road Trip
 https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",APTN Beyond
+https://jmp2.uk/plu-68b9afd66985e192657a2b7f.m3u8
+#EXTINF:-1 tvg-id="AreWeThereYet.us@SD" group-title="轮播 / FAST · 影视动漫",Are We There Yet?
+https://jmp2.uk/plu-65cf8b9328730900087c5324.m3u8
 #EXTINF:-1 tvg-id="AreWeThereYet.us@SD" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="轮播 / FAST · Series",Are We There Yet?
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="轮播 / FAST · Classic;Movies",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Arthur
+https://jmp2.uk/plu-6482f27c17f5e10008c10ff0.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" group-title="轮播 / FAST · Movies",Asianet Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD" group-title="轮播 / FAST · 影视动漫",At Home with Family Handyman
@@ -5216,11 +5238,15 @@ http://45.70.201.81:8000/play/a010/index.m3u8
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",AWSN
+https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="轮播 / FAST · Classic;Series",AWTV
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Ax Men
 https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Ax Men
+https://jmp2.uk/plu-6540fe4bbdf3cf0008aa2cdd.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="轮播 / FAST · Movies;Series",AXN Asia Indonesia
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="轮播 / FAST · Movies;Series",AXN Asia Taiwan
@@ -5283,6 +5309,8 @@ https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us@SD" group-title="轮播 / FAST · 影视动漫",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+#EXTINF:-1 tvg-id="BarRescue.us@CA" group-title="轮播 / FAST · 影视动漫",Bar Rescue
+https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png" group-title="轮播 / FAST · Series",Bar Rescue CA
 https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",batteryPOP
@@ -5291,6 +5319,8 @@ https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" group-title="轮播 / FAST · 影视动漫",Baywatch
 https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us@US" group-title="轮播 / FAST · 影视动漫",Baywatch
+https://jmp2.uk/plu-62bdae69a47b6c00076af298.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="轮播 / FAST · Series",Baywatch
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",BBC Comedy
@@ -5335,6 +5365,10 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD" group-title="轮播 / FAST · 影视动漫",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
+#EXTINF:-1 tvg-id="BestofDrPhil.us@SD" group-title="轮播 / FAST · 影视动漫",Best of Dr. Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us@CA" group-title="轮播 / FAST · 影视动漫",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 #EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="轮播 / FAST · Series",BET
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" group-title="轮播 / FAST · 影视动漫",BET Cinema
@@ -5365,6 +5399,8 @@ https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1 tvg-id="BeverlyHills90210.us@SD" group-title="轮播 / FAST · 影视动漫",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Beyond History
+https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 #EXTINF:-1 tvg-id="BeyondtheGates.us@SD" group-title="轮播 / FAST · 影视动漫",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Bhojpuri Cinema
@@ -5399,8 +5435,12 @@ https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us
 https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="轮播 / FAST · 影视动漫",Bloomberg TV+
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="轮播 / FAST · 影视动漫",Bloomberg TV+
+https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us@SD" group-title="轮播 / FAST · 影视动漫",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us@CA" group-title="轮播 / FAST · 影视动漫",Bob l'éponge
+https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="Bollygold.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" group-title="轮播 / FAST · Movies",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="轮播 / FAST · Movies",Bollywood HD
@@ -5411,12 +5451,16 @@ https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us@SD" group-title="轮播 / FAST · 影视动漫",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 tvg-id="Bonanza.us@CA" group-title="轮播 / FAST · 影视动漫",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us@CA" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="轮播 / FAST · Movies;Series",Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us@SD" group-title="轮播 / FAST · 影视动漫",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Bondi Rescue
 https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BondiRescue.us@CA" group-title="轮播 / FAST · 影视动漫",Bondi Rescue
+https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="轮播 / FAST · Series",Bondi Rescue (Sweden)
 https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.se@DK" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="轮播 / FAST · Series",Bondi Rescue (Sweden) DK
@@ -5461,6 +5505,8 @@ https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 tvg-id="Bull.se@NO" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="轮播 / FAST · Series",Bull NO
 https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Busted at the Border
+https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",BuzzFeed Celeb
 https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",BuzzFeed Tasty
@@ -5537,14 +5583,24 @@ https://tvnow.hostless.app/cartoon-network.m3u8
 http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
+#EXTINF:-1 tvg-id="MTVCatfish.us@CA" group-title="轮播 / FAST · 影视动漫",Catfish
+https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Caught on Tape
 https://pb-chkjjtiael60a.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" group-title="轮播 / FAST · 影视动漫",CBC News
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CBC News
+https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CBC News British Columbia
+https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CBC News Toronto
+https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" group-title="轮播 / FAST · 影视动漫",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" group-title="轮播 / FAST · 影视动漫",CBS News 24/7
 https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" group-title="轮播 / FAST · 影视动漫",CBS News 24/7
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" group-title="轮播 / FAST · 影视动漫",CBS News Baltimore
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" group-title="轮播 / FAST · 影视动漫",CBS News Bay Area
@@ -5595,8 +5651,12 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Cheaters
 https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Cheaters
+https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us@SD" group-title="轮播 / FAST · 影视动漫",Cheddar News
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheers.us@CA" group-title="轮播 / FAST · 影视动漫",Cheers
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us@SD" group-title="轮播 / FAST · 影视动漫",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 tvg-id="Cheers.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="轮播 / FAST · Series",Cheers (United States)
@@ -5607,6 +5667,8 @@ https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
 https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 #EXTINF:-1 tvg-id="Choppertown.us@SD" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="轮播 / FAST · Auto;Series",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Christmas 365
+https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
 #EXTINF:-1 tvg-id="CinCin.de@IT" tvg-logo="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="轮播 / FAST · Movies",CINDIE TV
@@ -5775,6 +5837,8 @@ https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CNN HEADLINES
 https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CNN Headlines
+https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CNN Noticias
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",CNN Originals
@@ -5793,6 +5857,12 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Colors Cineplex Superhits
 http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Come Dine with Me
+https://jmp2.uk/plu-65367e724f123d000877cfe5.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@CA" group-title="轮播 / FAST · 影视动漫",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" group-title="轮播 / FAST · 影视动漫",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" group-title="轮播 / FAST · 影视动漫",Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" group-title="轮播 / FAST · 影视动漫",Comedy Central Pluto TV
@@ -5807,6 +5877,8 @@ https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
 https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Confess by Nosey
 https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Confess by Nosey
+https://jmp2.uk/plu-638e0f4832494900074481e7.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Construcciones Asombrosas
 https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" group-title="轮播 / FAST · 影视动漫",COPS
@@ -5829,12 +5901,16 @@ https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
 https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crime 24/7
 https://pb-l3ocdsysqugbb.akamaized.net/v1/aenetworks_crime247_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crime & Justice
+https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crimen
 https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crimes Cults Killers
 https://d3ox1t0pcya837.cloudfront.net/v1/aenetworks_kriminal_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crime ThrillHer
 https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Crime Up Close
+https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Criminal Minds
 https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
 #EXTINF:-1 tvg-id="Crunchyroll.us@SD" group-title="轮播 / FAST · 影视动漫",Crunchyroll
@@ -5889,6 +5965,8 @@ https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Dance Moms
 https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Dance Moms
+https://jmp2.uk/plu-6540fec1770cf1000866b65b.m3u8
 #EXTINF:-1 tvg-id="DangerTV.us@SD" group-title="轮播 / FAST · 影视动漫",DangerTV
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us@SD" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="轮播 / FAST · Series",Dark Matter TV
@@ -5907,12 +5985,16 @@ https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",DAZN Ringside
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",DAZN TV
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 tvg-id="DCCMakingtheTeam.us@SD" group-title="轮播 / FAST · 影视动漫",DCC: Making the Team
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" group-title="轮播 / FAST · 影视动漫",Deal or No Deal
 https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" group-title="轮播 / FAST · 影视动漫",Deal or No Deal
 https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" group-title="轮播 / FAST · 影视动漫",Deal or no Deal
+https://jmp2.uk/plu-62e92951c2db99000787c00d.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="轮播 / FAST · Series",Deal or No Deal
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Deal Zone
@@ -5923,6 +6005,8 @@ https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US" group-title="轮播 / FAST · 影视动漫",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
+#EXTINF:-1 tvg-id="Degrassi.us@US" group-title="轮播 / FAST · 影视动漫",Degrassi
+https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Delicious Eats by Food Network
 https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="轮播 / FAST · Movies",De Pelicula Latin America
@@ -5981,12 +6065,16 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Divorce Court
 https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="DocMartin.us@CA" group-title="轮播 / FAST · 影视动漫",Doc Martin
+https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-id="DocMartin.se@SE" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" group-title="轮播 / FAST · Series",Doc Martin (Sweden)
 https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 tvg-id="DocMartin.us@CA" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="轮播 / FAST · Series",Doc Martin (United States)
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" group-title="轮播 / FAST · 影视动漫",Doctor Who Classic
 https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" group-title="轮播 / FAST · 影视动漫",Doctor Who Classic
+https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="轮播 / FAST · Series",Doctor Who Classic
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US" group-title="轮播 / FAST · 影视动漫",Documentary+
@@ -5995,6 +6083,8 @@ https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" group-title="轮播 / FAST · 影视动漫",Dog the Bounty Hunter
 https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" group-title="轮播 / FAST · 影视动漫",Dog The Bounty Hunter
+https://jmp2.uk/plu-6540fee72cf13100085d5a18.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="轮播 / FAST · Series",Dog the Bounty Hunter
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="轮播 / FAST · Series",Dog the Bounty Hunter UK
@@ -6021,6 +6111,8 @@ https://d274b7i6eihzn5.cloudfront.net/do.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="轮播 / FAST · Movies",Dorama
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DoraTV.us@CA" group-title="轮播 / FAST · 影视动漫",Dora TV
+https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us@SD" group-title="轮播 / FAST · 影视动漫",Dove Channel
 https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" group-title="轮播 / FAST · 影视动漫",DraftKings Network
@@ -6041,6 +6133,8 @@ https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" group-title="轮播 / FAST · 影视动漫",Duck Dynasty
 https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK" group-title="轮播 / FAST · 影视动漫",Duck Dynasty
+https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="轮播 / FAST · Series",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk@SD" group-title="轮播 / FAST · 影视动漫",ducktv
@@ -6119,10 +6213,14 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" group-title="轮播 / FAST · 影视动漫",FailArmy
 https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US" group-title="轮播 / FAST · 影视动漫",FailArmy
+https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Family Feud
 https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Family Feud Classic
+https://jmp2.uk/plu-64c2222fb0cf5c0008288c4f.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us@SD" group-title="轮播 / FAST · 影视动漫",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="轮播 / FAST · Series",Family Ties (United States)
@@ -6133,6 +6231,8 @@ http://31.148.48.15/Fan/index.m3u8
 https://d1x2mlky5ieruz.cloudfront.net/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Farscape.us@SD" tvg-logo="https://i.imgur.com/2WH4lSc.png" group-title="轮播 / FAST · Series",Farscape
 https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
+#EXTINF:-1 tvg-id="FBIFiles.us@UK" group-title="轮播 / FAST · 影视动漫",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 #EXTINF:-1 tvg-id="FBoyIsland.se@DK" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="轮播 / FAST · Series",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="FearFactor.us@US" group-title="轮播 / FAST · 影视动漫",Fear Factor
@@ -6145,6 +6245,8 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="轮播 / FAST · 影视动漫",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="轮播 / FAST · 影视动漫",FIFA+
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="轮播 / FAST · Movies",Film & Arts
 http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="轮播 / FAST · Movies",Filmax
@@ -6195,6 +6297,8 @@ https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Fireplace Vibes
 https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Fixers and Flippers
+https://jmp2.uk/plu-62fb62081afad500077e915e.m3u8
 #EXTINF:-1 tvg-id="FlicksofFury.us@SD" group-title="轮播 / FAST · 影视动漫",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Flipping Nation
@@ -6203,6 +6307,8 @@ https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsunghead
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD" group-title="轮播 / FAST · 影视动漫",Forensic Files
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD" group-title="轮播 / FAST · 影视动漫",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us@SD" group-title="轮播 / FAST · 影视动漫",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Forged In Fire
@@ -6217,12 +6323,16 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" group-title="轮播 / FAST · 影视动漫",FOX Weather
 https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="Frasier.us@CA" group-title="轮播 / FAST · 影视动漫",Frasier
+https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="Frasier.us@CA" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="轮播 / FAST · Series",Frasier (United States)
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",FreeTV Estelar
 https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="轮播 / FAST · Series",Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Fresh Movies by VVS Films
+https://jmp2.uk/plu-691e0561e32eb094b835c418.m3u8
 #EXTINF:-1 tvg-id="FrightFlix.us@SD" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="轮播 / FAST · Movies",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" group-title="轮播 / FAST · 影视动漫",fubo Sports Network
@@ -6235,8 +6345,12 @@ https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 tvg-id="GameShowCentral.us@SD" group-title="轮播 / FAST · 影视动漫",Game Show Central
 https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowCentral.us@SD" group-title="轮播 / FAST · 影视动漫",Game Show Central
+https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us@US" group-title="轮播 / FAST · 影视动漫",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:-1 tvg-id="GarfieldandFriends.us@US" group-title="轮播 / FAST · 影视动漫",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="Geekdot.br@SD" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="轮播 / FAST · Animation",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="轮播 / FAST · Movies",GEM Bollywood
@@ -6271,6 +6385,8 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_i
 https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 tvg-id="GhostHunters.us@UK" group-title="轮播 / FAST · 影视动漫",Ghost Hunters
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
+#EXTINF:-1 tvg-id="GhostHunters.us@UK" group-title="轮播 / FAST · 影视动漫",Ghost Hunters
+https://jmp2.uk/plu-65cf8ace332fec00081e7ea2.m3u8
 #EXTINF:-1 tvg-id="GhostHunters.us@UK" tvg-logo="https://i.imgur.com/KdBr6rG.png" group-title="轮播 / FAST · Series",Ghost Hunters
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Ghost Stories
@@ -6281,6 +6397,34 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GirlfriendsFilms.us@SD" tvg-logo="https://i.imgur.com/hCcdrOv.png" group-title="轮播 / FAST · Movies",Girlfriends Films
 https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News BC
+https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Calgary
+https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Edmonton
+https://jmp2.uk/plu-62cbf2de1fba5f0007e47d9c.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Halifax
+https://jmp2.uk/plu-62cbf398b8e02600071deda5.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Kingston
+https://jmp2.uk/plu-62cbf4964446e2000742073e.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Lethbridge
+https://jmp2.uk/plu-62cbf7439cb58900088dc77b.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Montreal
+https://jmp2.uk/plu-62cbfbd6ad95670007f567af.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News National
+https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Okanagan
+https://jmp2.uk/plu-62cbfc572dc3750007a493ce.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Peterborough
+https://jmp2.uk/plu-62cbfcd8c2db990007861e43.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Regina
+https://jmp2.uk/plu-62cbff53ca8f2200080253b5.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Saskatoon
+https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Toronto
+https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Global News Winnipeg
+https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 #EXTINF:-1 tvg-id="GolazoNetwork.us@SD" group-title="轮播 / FAST · 影视动漫",Golazo Network
@@ -6307,6 +6451,8 @@ https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" group-title="轮播 / FAST · 影视动漫",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" group-title="轮播 / FAST · 影视动漫",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-logo="" group-title="轮播 / FAST · Movies",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us@SD" group-title="轮播 / FAST · 影视动漫",Gravitas Movies
@@ -6343,6 +6489,8 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HappyDays.us@SD" group-title="轮播 / FAST · 影视动漫",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+#EXTINF:-1 tvg-id="HappyDays.us@CA" group-title="轮播 / FAST · 影视动漫",Happy Days
+https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Happy Days (Sweden)
 https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Happy Days (Sweden) DK
@@ -6355,13 +6503,15 @@ https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD" group-title="轮播 / FAST · 影视动漫",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hardcore Pawn
+https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us@SD" tvg-logo="https://i.imgur.com/JDM9rEV.png" group-title="轮播 / FAST · Animation;Kids",Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca@SD" group-title="轮播 / FAST · 影视动漫",Haunt TV
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca@SD" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="轮播 / FAST · Series",HauntTV
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="HauntTV.ca@CA" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="轮播 / FAST · Series",HauntTV CA
+#EXTINF:-1 tvg-id="HauntTV.ca@CA" group-title="轮播 / FAST · 影视动漫",HauntTV CA
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="轮播 / FAST · Movies",HBO 2 (Czech Republic)
 http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
@@ -6405,12 +6555,16 @@ https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",History 365
 https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",History & Warfare
+https://jmp2.uk/plu-69dd5d7bfcb9bf5e3063cb16.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",History & Warfare Now
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-id="Hit.ru@HD" tvg-logo="https://i.imgur.com/jl3MNPe.png" group-title="轮播 / FAST · Movies",Hit HD
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hit Sitcoms
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hit Sitcoms
+https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hoarders by A&E
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HogansHeroes.us@SD" group-title="轮播 / FAST · 影视动漫",Hogan's Heroes
@@ -6427,6 +6581,8 @@ https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
 https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca@US" group-title="轮播 / FAST · 影视动漫",Homeful
 https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
+#EXTINF:-1 tvg-id="Homeful.ca@US" group-title="轮播 / FAST · 影视动漫",Homeful
+https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us@SD" group-title="轮播 / FAST · 影视动漫",Home.Made.Nation
 https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us@SD" group-title="轮播 / FAST · 影视动漫",Home.Made.Nation
@@ -6447,6 +6603,8 @@ https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hot Ones
 https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hot Ones
+https://jmp2.uk/plu-65a803b607e03a0008925118.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Hot Wheels Action
 https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 #EXTINF:-1 tvg-id="HouseofLies.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="轮播 / FAST · Series",House of Lies
@@ -6493,12 +6651,16 @@ https://live.presstv.co.uk/hls/ifilmfa.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="ILoveLucy.us@SD" group-title="轮播 / FAST · 影视动漫",I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 tvg-id="ILoveLucy.us@CA" group-title="轮播 / FAST · 影视动漫",I Love Lucy
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
 #EXTINF:-1 tvg-id="ILoveLucy.us@CA" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Comedy",I Love Lucy CA
 https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
 #EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" group-title="轮播 / FAST · Series",Impossible Quiz Show
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InazumaEleven.us@France" tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="轮播 / FAST · Kids;Series",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Income Property
+https://jmp2.uk/plu-62e926429cb58900088f951f.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",In Depth with Graham Bensinger
 https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
 #EXTINF:-1 tvg-id="IndiaTalkies.in@SD" tvg-logo="https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png" group-title="轮播 / FAST · Movies",India Talkies
@@ -6509,6 +6671,8 @@ http://188.113.190.12/329/index.m3u8
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us@SD" group-title="轮播 / FAST · 影视动漫",Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+#EXTINF:-1 tvg-id="InkMaster.us@CA" group-title="轮播 / FAST · 影视动漫",Ink Master
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 #EXTINF:-1 tvg-id="InsideCrime.us@UK" tvg-logo="https://i.imgur.com/wvQYWsj.png" group-title="轮播 / FAST · Series",Inside Crime
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InstantSaga.us@US" tvg-logo="https://i.imgur.com/PMpwaQN.png" group-title="轮播 / FAST · Series",Instant Saga
@@ -6535,7 +6699,7 @@ https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
 https://pb-usmbvsgwcg8pc.akamaized.net/Ion_Mystery_US.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East" group-title="轮播 / FAST · 影视动漫",ION Plus
 https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
-#EXTINF:-1 tvg-id="IronChef.us@US" tvg-logo="https://i.imgur.com/rk7fMNe.png" group-title="轮播 / FAST · Series",Iron Chef
+#EXTINF:-1 tvg-id="IronChef.us@US" group-title="轮播 / FAST · 影视动漫",Iron Chef
 https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Island Vibes
 https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
@@ -6545,6 +6709,8 @@ https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",It’s Anime
 https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="JAG.us@CA" group-title="轮播 / FAST · 影视动漫",JAG
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="JAG.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",JAG (Sweden)
 https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 #EXTINF:-1 tvg-id="JAG.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",JAG (Sweden) DK
@@ -6587,6 +6753,8 @@ https://jmp2.uk/plu-5e9decb953e157000752321c.m3u8
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="轮播 / FAST · 影视动漫",Just for Laughs GAGS
 https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="轮播 / FAST · 影视动漫",Just for Laughs GAGS
+https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Kairali We
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.imgur.com/EZUyzhG.jpg" group-title="轮播 / FAST · Movies",Kantipur Max
@@ -6617,6 +6785,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 #EXTINF:-1 tvg-id="Kineko.ru@SD" tvg-logo="https://i.imgur.com/Otfvlmf.png" group-title="轮播 / FAST · Movies",Kineko
 http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",King of Queens
+https://jmp2.uk/plu-62f4f414c2ba130007f8b24e.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="轮播 / FAST · Movies",Kino 1 (Russia) [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru@SD" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="轮播 / FAST · Movies",Kino 24
@@ -6649,6 +6819,8 @@ http://31.148.48.15/Kino_TV_HD/index.m3u8
 http://s1.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",KIRO Seattle
 https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Kitchen Battles
+https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Kitchen Nightmares
 https://pb-6nrjkl2kyw4ki.akamaized.net/Kitchen_Nightmares.m3u8
 #EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="轮播 / FAST · Movies",Klasik [Not 24/7]
@@ -6682,6 +6854,8 @@ https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
 #EXTINF:-1 tvg-id="LaxmiTVGujarati.in@SD" tvg-logo="https://i.imgur.com/8wLfkl9.jpg" group-title="轮播 / FAST · Movies",Laxmi TV Gujarati
 http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Leave it to Bryan
+https://jmp2.uk/plu-62e91b5ca909cb0008114ae4.m3u8
 #EXTINF:-1 tvg-id="LEGOKidsTV.us@SD" group-title="轮播 / FAST · 影视动漫",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 #EXTINF:-1 tvg-id="Lemiracledelamour.us@France" tvg-logo="https://i.imgur.com/3Xz4hjD.png" group-title="轮播 / FAST · Series",Le miracle de l'amour
@@ -6696,8 +6870,12 @@ https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Let's Make A Deal
 https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Let's Make a deal
+https://jmp2.uk/plu-64c2201a2a7f2200089a0af2.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Let's Make A Deal Classic
 https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Life & Legend of Wyatt Earp
+https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Lifetime Movie Favorites
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Lifetime Movie Favorites
@@ -7158,7 +7336,7 @@ https://cdn.pishow.tv/ott/live/1011/master.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Mark Rober TV
 https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="轮播 / FAST · Series",Married with Children
+#EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" group-title="轮播 / FAST · 影视动漫",Married... with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="轮播 / FAST · Series",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
@@ -7168,6 +7346,8 @@ https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 #EXTINF:-1 tvg-id="Matlock.us@SD" group-title="轮播 / FAST · 影视动漫",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1 tvg-id="Matlock.us@CA" group-title="轮播 / FAST · 影视动漫",Matlock
+https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-id="Matlock.se@SE" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Matlock (Sweden)
 https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-id="Matlock.se@DK" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Matlock (Sweden) DK
@@ -7198,6 +7378,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="轮播 / FAST · Movies",Maxcine Kids
 https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Max & Ruby
+https://jmp2.uk/plu-62fb6a4feb32e8000708f4d0.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="轮播 / FAST · Movies",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="轮播 / FAST · Movies",MBC Bollywood
@@ -7248,6 +7430,8 @@ https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" group-title="轮播 / FAST · 影视动漫",Midsomer Murders
 https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD" group-title="轮播 / FAST · 影视动漫",Midsomer Murders
+https://jmp2.uk/plu-62e92447ea1e2a000735ed33.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-logo="https://i.imgur.com/VFqfyfY.png" group-title="轮播 / FAST · Series",Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiExtranaObsesion.us@Spain" tvg-logo="https://i.imgur.com/VtxO6KI.png" group-title="轮播 / FAST · Series",Mi Extrana Obsesion
@@ -7268,6 +7452,8 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.us@SD" group-title="轮播 / FAST · 影视动漫",Mission Impossible
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.us@CA" group-title="轮播 / FAST · 影视动漫",Mission Impossible
+https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Mission Impossible (Sweden)
 https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Series",Mission Impossible (Sweden) DK
@@ -7290,14 +7476,22 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="MLB.us@SD" group-title="轮播 / FAST · 影视动漫",MLB Channel
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Modern Marvels
+https://jmp2.uk/plu-6540ff2d770cf1000866b90a.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Modern Marvels by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Modern Marvels Presented by History
 https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",MODUS Super Series Darts
+https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us@SD" group-title="轮播 / FAST · 影视动漫",Monster Jam
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us@SD" group-title="轮播 / FAST · 影视动漫",Monster Jam
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="轮播 / FAST · 影视动漫",Moonbug
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+#EXTINF:-1 tvg-id="MorePlutoTVComedy.us@CA" group-title="轮播 / FAST · 影视动漫",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 tvg-id="MoreTrueCrime.us@SD" group-title="轮播 / FAST · 影视动漫",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 #EXTINF:-1 tvg-id="MoreTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png" group-title="轮播 / FAST · Series",More TV Crime
@@ -7340,6 +7534,8 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="轮播 / FAST · 影视动漫",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@CA" group-title="轮播 / FAST · 影视动漫",MovieSphere by Lionsgate
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@CA" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="轮播 / FAST · Movies",MovieSphere CA
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="MovieSphereGold.us@WFXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MovieSphere_Gold_2025_logo.svg/500px-MovieSphere_Gold_2025_logo.svg.png" group-title="轮播 / FAST · Movies",MovieSphere Gold WFXT
@@ -7373,8 +7569,12 @@ https://mst3k-roku.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US" group-title="轮播 / FAST · 影视动漫",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Biggest Pop
+https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 #EXTINF:-1 tvg-id="MTVComoEx.us@BR" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="轮播 / FAST · Series",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+#EXTINF:-1 tvg-id="MTVDating.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Dating
+https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
 #EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="轮播 / FAST · Series",MTV Dating (United States)
 https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 #EXTINF:-1 tvg-id="MTVDating.us@CA" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="轮播 / FAST · Series",MTV Dating (United States) CA
@@ -7385,10 +7585,18 @@ https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us@SD" group-title="轮播 / FAST · 影视动漫",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Jersey Shore
+https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@US" group-title="轮播 / FAST · 影视动漫",MTV Pluto TV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+#EXTINF:-1 tvg-id="MTVReality.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Reality
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Ridiculousness
+https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@US" group-title="轮播 / FAST · 影视动漫",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" group-title="轮播 / FAST · 影视动漫",MTV Spankin’ New
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="MTVTeenMom.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="轮播 / FAST · Series",MTV Teen Mom (United States)
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="轮播 / FAST · Movies",MultiPremier
@@ -7443,7 +7651,7 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
 #EXTINF:-1 tvg-id="NashBridges.us@SD" group-title="轮播 / FAST · 影视动漫",Nash Bridges
 https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
-#EXTINF:-1 tvg-id="NashBridges.us@SD" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="轮播 / FAST · Series",Nash Bridges
+#EXTINF:-1 tvg-id="NashBridges.us@SD" group-title="轮播 / FAST · 影视动漫",Nash Bridges
 https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="轮播 / FAST · Movies;Series",Nashe HD
 http://stream.mcquack.net/217/index.m3u8
@@ -7453,6 +7661,8 @@ http://stream.mcquack.net/362/index.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="轮播 / FAST · Movies",Nash Kinopokaz HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Nashville.us@CA" group-title="轮播 / FAST · 影视动漫",Nashville
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 tvg-id="Nashville.us@CA" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" group-title="轮播 / FAST · Series",Nashville CA
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",National Lampoon
@@ -7471,10 +7681,14 @@ https://pb-o6czxr182vtiv.akamaized.net/master.m3u8
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" group-title="轮播 / FAST · 影视动漫",NBC Sports NOW
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+#EXTINF:-1 tvg-id="NCIS.us@CA" group-title="轮播 / FAST · 影视动漫",NCIS
+https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedGibbs.se@DK" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="轮播 / FAST · Series",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se@DK" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="轮播 / FAST · Series",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" group-title="轮播 / FAST · 影视动漫",NCIS: Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-id="NCISLosAngeles.se@DK" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="轮播 / FAST · Series",NCIS: Los Angeles (Sweden)
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="轮播 / FAST · Series",NCIS: Los Angeles (United States)
@@ -7523,8 +7737,12 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" group-title="轮播 / FAST · 影视动漫",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" group-title="轮播 / FAST · 影视动漫",Nick Jr. Pluto TV
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="轮播 / FAST · Animation;Kids",NickOnline HD
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@CA" group-title="轮播 / FAST · 影视动漫",NickToons
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="NileDrama.eg@SD" tvg-logo="https://i.imgur.com/FasJFMM.png" http-referrer="https://entv.dz/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36" group-title="轮播 / FAST · Movies",Nile Drama
 #EXTVLCOPT:http-referrer=https://entv.dz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -7533,6 +7751,8 @@ http://185.9.2.18/chid_352/index.m3u8
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk@SD" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="轮播 / FAST · Movies",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Nonstop Drama
+https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@SE" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="轮播 / FAST · Movies",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@DK" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="轮播 / FAST · Movies",NonStop Kung Fu DK
@@ -7547,6 +7767,8 @@ https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" group-title="轮播 / FAST · 影视动漫",Nosey
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us@US" group-title="轮播 / FAST · 影视动漫",Nosey
+https://jmp2.uk/plu-62e93d0a80d8d10008a0181e.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="轮播 / FAST · Series",Nosey
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@UK" tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="轮播 / FAST · Series",Nosey UK
@@ -7587,6 +7809,8 @@ https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="OnePiece.us@US" group-title="轮播 / FAST · 影视动漫",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@CA" group-title="轮播 / FAST · 影视动漫",One Piece
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@US" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="轮播 / FAST · Animation",One Piece
 https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@BR" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="轮播 / FAST · Animation",One Piece BR
@@ -7619,6 +7843,8 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",OUTflix Movies
 https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",OUTflix Movies
+https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" group-title="轮播 / FAST · 影视动漫",Outside TV
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="Overtime.us@SD" group-title="轮播 / FAST · 影视动漫",Overtime
@@ -7667,6 +7893,8 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="PerryMason.us@SD" group-title="轮播 / FAST · 影视动漫",Perry Mason
 https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+#EXTINF:-1 tvg-id="PerryMason.us@CA" group-title="轮播 / FAST · 影视动漫",Perry Mason
+https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-id="PerryMason.us@CA" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="轮播 / FAST · Series",Perry Mason CA
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="轮播 / FAST · Movies",Persiana Cinema
@@ -7709,13 +7937,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="轮播 / FAST · Animation;Kids",Plim Plim
 http://45.70.168.162:1503/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="轮播 / FAST · Movies;Series",Pluto Classic Movie Westerns
+#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-id="PlutoTV90sClassics.de@FR" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="轮播 / FAST · Movies;Series",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVActionMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Action Movies
+#EXTINF:-1 tvg-id="PlutoTVActionMovies.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se@SE" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="轮播 / FAST · Movies;Series",Pluto TV Action (Sweden)
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
@@ -7729,6 +7957,8 @@ https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Adventure
 https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Adventure
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us@CA" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="轮播 / FAST · Entertainment;Outdoor;Series",Pluto TV Adventure CA
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV A La Mexicana
@@ -7743,6 +7973,8 @@ https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Anime
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="轮播 / FAST · Animation",Pluto TV Anime Acao
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="轮播 / FAST · Animation",Pluto TV Anime BR
@@ -7761,6 +7993,8 @@ https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBritischeSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/677e5a3d7bffa6000808dbf2/colorLogoPNG.png" group-title="轮播 / FAST · Series",Pluto TV Britische Serien
 https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 tvg-id="BritishComedy.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV British Comedy
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBudTerence.de@DACH" tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png" group-title="轮播 / FAST · Movies",Pluto TV Bud & Terence (Germany)
 https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBudTerence.se@SE" tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png" group-title="轮播 / FAST · Movies",Pluto TV Bud & Terence (Sweden)
@@ -7771,6 +8005,8 @@ https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
 https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCars.us@SD" group-title="轮播 / FAST · 影视动漫",Pluto TV Cars
 https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCars.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Cars
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCatastrofes.de@ES" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Catastrofes
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 #EXTINF:-1 tvg-id="PlutoTVChristmastuttolanno.de@IT" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" group-title="轮播 / FAST · Movies",Pluto TV Christmas tutto l'anno
@@ -7827,7 +8063,9 @@ https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVClassicTV.de@GB" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="轮播 / FAST · Classic",Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVClassicTVVariety.us@CA" tvg-logo="https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png" group-title="轮播 / FAST · Classic",Pluto TV Classic TV Variety
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Classic TV Families
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+#EXTINF:-1 tvg-id="PlutoTVClassicTVVariety.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Classic TV Variety
 https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de@ES" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="轮播 / FAST · Comedy;Movies",Pluto TV Comedias Romanticas
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
@@ -7835,7 +8073,9 @@ https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedy.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="轮播 / FAST · Comedy;Movies",Pluto TV Comedy Movies
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Comedy
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us@SD" group-title="轮播 / FAST · 影视动漫",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
@@ -7843,6 +8083,8 @@ https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD" group-title="轮播 / FAST · 影视动漫",Pluto TV Crime Drama
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Crime Drama
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Crime Drama CA
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="轮播 / FAST · Series",Pluto TV Crime GB
@@ -7865,7 +8107,7 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Drama
 https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDramaMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Drama Movies
+#EXTINF:-1 tvg-id="PlutoTVDramaMovies.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Drama Movies
 https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDramasCoreanos.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png" group-title="轮播 / FAST · Series",Pluto TV Dramas Coreanos
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
@@ -7879,7 +8121,7 @@ https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de@GB" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" group-title="轮播 / FAST · Movies",Pluto TV Fantasy & Horror
 https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFBI.us@CA" tvg-logo="https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png" group-title="轮播 / FAST · Series",Pluto TV FBI
+#EXTINF:-1 tvg-id="PlutoTVFBI.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV FBI
 https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFerneGalaxien.de@DACH" tvg-logo="https://images.pluto.tv/channels/68ada46d5190a45dc9c45af1/colorLogoPNG_1773754781519.png" group-title="轮播 / FAST · Movies",Pluto TV Ferne Galaxien
 https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
@@ -7933,6 +8175,8 @@ https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Horror
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorrorSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/67ff7d9c7fc25e0e72451bc9/colorLogoPNG_1749796239058.png" group-title="轮播 / FAST · Series",Pluto TV Horror-Serien
 https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="轮播 / FAST · Movies;Series",Pluto TV Horror (Sweden)
@@ -7989,6 +8233,8 @@ https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de@GB" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Movies GB
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Netmovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNordicCrime.de@DACH" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="轮播 / FAST · Series",Pluto TV Nordic Crime
@@ -8017,6 +8263,8 @@ https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Paranormal
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se@SE" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Paranormal (Sweden)
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se@DK" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Paranormal (Sweden) DK
@@ -8033,12 +8281,16 @@ https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReality.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Reality
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" group-title="轮播 / FAST · Classic;Movies",Pluto TV Retro Action Movies
+#EXTINF:-1 tvg-id="PlutoTVReality.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Reality
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Retro Action Movies
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroCrimeAction.us@CA" tvg-logo="https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/colorLogoPNG_1774899454178.png" group-title="轮播 / FAST · Classic",Pluto TV Retro Crime Action
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeAction.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Retro Crime Action
 https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="轮播 / FAST · Classic",Pluto TV Retro Crime Drama
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Retro Crime Drama
 https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroKid.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de@FR" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Kids",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de@GB" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Kids",Pluto TV Retro Toons GB
@@ -8057,6 +8309,8 @@ https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="轮播 / FAST · Series",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se@SE" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="轮播 / FAST · Movies;Series",Pluto TV Sci-Fi (Sweden)
@@ -8119,6 +8373,8 @@ https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@GB" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="轮播 / FAST · Comedy;Series",Pluto TV Sitcoms GB
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Snooker 900
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us@SD" group-title="轮播 / FAST · 影视动漫",Pluto TV Spotlight
 https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStaffPicks.us@SD" group-title="轮播 / FAST · 影视动漫",Pluto TV Staff Picks
@@ -8149,6 +8405,8 @@ https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV True Crime
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@SE" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="轮播 / FAST · Documentary;Series",Pluto TV True Crime (Sweden)
 https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="轮播 / FAST · Documentary;Series",Pluto TV True Crime (Sweden) DK
@@ -8169,6 +8427,8 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us@US" group-title="轮播 / FAST · 影视动漫",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" group-title="轮播 / FAST · 影视动漫",Pluto TV Westerns
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="轮播 / FAST · Series",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Pluto TV Westerns (Germany)
@@ -8199,6 +8459,8 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Pokémon
 https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Pokémon
+https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Pokémon en español
 https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm.pl@HD" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="轮播 / FAST · Movies",Polsat Film HD
@@ -8223,6 +8485,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Project Runway
 https://pb-w5i1ok5f9169m.akamaized.net/Project_Runway.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Project Runway
+https://jmp2.uk/plu-681b16158f97d58ff194a3a9.m3u8
 #EXTINF:-1 tvg-id="Prokino.ua@SD" tvg-logo="https://i.imgur.com/Vm9nbi8.png" group-title="轮播 / FAST · Movies",Prokino
 http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Property Brothers
@@ -8231,10 +8495,12 @@ https://jmp2.uk/plu-698384cb7230043f21f4a3f4.m3u8
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us@SD" group-title="轮播 / FAST · 影视动漫",Pursuit UP
 https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png" group-title="轮播 / FAST · Classic",Puto TV Classic TV Crime Drama
+#EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us@CA" group-title="轮播 / FAST · 影视动漫",Puto TV Classic TV Crime Drama
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Qello Concerts
 https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Qello Concerts
+https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Qué Culpa Tiene Fatmagül
 https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
 #EXTINF:-1 tvg-id="QVC.us@SD" group-title="轮播 / FAST · 影视动漫",QVC
@@ -8245,6 +8511,8 @@ https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
 https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Rachael Ray Presents
 https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Radio-Canada INFO
+https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="轮播 / FAST · Movies",Rai Movie HD
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RainbowRuby.us@SD" group-title="轮播 / FAST · 影视动漫",Rainbow Ruby
@@ -8321,6 +8589,8 @@ https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us@SD" group-title="轮播 / FAST · 影视动漫",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+#EXTINF:-1 tvg-id="Rawhide.us@CA" group-title="轮播 / FAST · 影视动漫",Rawhide
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="轮播 / FAST · Classic;Series",Rawhide (Sweden)
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="轮播 / FAST · Classic;Series",Rawhide (Sweden) DK
@@ -8335,8 +8605,14 @@ https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Real Disaster Channel
 https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Real Disaster Channel
+https://jmp2.uk/plu-64e89cfc9c1e3900084ca663.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Reno Duo
+https://jmp2.uk/plu-62fb61992443200008c59aef.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Reno Rehab
+https://jmp2.uk/plu-62fb6057f923fb0007eafb24.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="轮播 / FAST · Classic",Retro
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="轮播 / FAST · Classic",Retro Cartoon
@@ -8365,12 +8641,18 @@ https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",RIG TV
 https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",RigTV
+https://jmp2.uk/plu-681b196b896dcc617f8558fe.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",River Monsters
+https://jmp2.uk/plu-65367e914f123d000877d021.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Road Renegades
 https://pb-cy00m4ei0fe6a.akamaized.net/v1/aenetworks_roadrenegades_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="轮播 / FAST · Movies",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Roku Sports Channel
 https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Romance 365
+https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" tvg-logo="https://i.imgur.com/dGlKoLW.png" http-referrer="https://rotana.net/" group-title="轮播 / FAST · Movies",Rotana Cinema Egypt
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -8423,6 +8705,8 @@ https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" tvg-logo="https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg" group-title="轮播 / FAST · Movies",Scares by Shudder
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Scare Tactics
+https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
 #EXTINF:-1 tvg-id="Scorpion.de@GB" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" group-title="轮播 / FAST · Series",Scorpion (Germany)
 https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 tvg-id="Scorpion.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" group-title="轮播 / FAST · Series",Scorpion (Sweden)
@@ -8541,6 +8825,8 @@ https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="轮播 / FAST · Animation;Kids",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+#EXTINF:-1 tvg-id="SouthPark.us@CA" group-title="轮播 / FAST · 影视动漫",South Park
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1 tvg-id="SouthParkArmageddon.se@SE" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park Armageddon
 https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
 #EXTINF:-1 tvg-id="SouthParkArmageddon.se@DK" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park Armageddon DK
@@ -8555,6 +8841,8 @@ https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Butters Collection (Sweden) NO
 https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA" group-title="轮播 / FAST · 影视动漫",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Cartman Collection (Germany)
 https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Cartman Collection (Sweden)
@@ -8583,6 +8871,8 @@ https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
 #EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park En Francais
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA" group-title="轮播 / FAST · 影视动漫",South Park En Français
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@ES" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="轮播 / FAST · Animation;Comedy",South Park (Germany)
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@GB" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="轮播 / FAST · Animation;Comedy",South Park (Germany) GB
@@ -8595,6 +8885,8 @@ https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se@NO" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Into the Stars NO
 https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" group-title="轮播 / FAST · 影视动漫",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Kenny Collection (Germany)
 https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Kenny Collection (Sweden)
@@ -8605,6 +8897,8 @@ https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
 https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Kenny Collection (United States)
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" group-title="轮播 / FAST · 影视动漫",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Kyle Collection (Germany)
 https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Kyle Collection (Sweden)
@@ -8623,6 +8917,8 @@ https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
 #EXTINF:-1 tvg-id="SouthParkRockinOut.se@NO" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park Rockin' Out NO
 https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" group-title="轮播 / FAST · 影视动漫",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-id="SouthParkStanCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Stan Collection (Germany)
 https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="SouthParkStanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Stan Collection (Sweden)
@@ -8643,7 +8939,7 @@ https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1 tvg-id="SouthParkVersionOriginal.de@ES" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png" group-title="轮播 / FAST · Animation;Comedy",South Park: Welcome to Canada!
+#EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" group-title="轮播 / FAST · 影视动漫",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="轮播 / FAST · Movies",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
@@ -8657,6 +8953,8 @@ https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 #EXTINF:-1 tvg-id="SpikePlutoTV.us@SD" group-title="轮播 / FAST · 影视动漫",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+#EXTINF:-1 tvg-id="SpongeBobSquarePants.us@CA" group-title="轮播 / FAST · 影视动漫",SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us@SD" group-title="轮播 / FAST · 影视动漫",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us@SD" group-title="轮播 / FAST · 影视动漫",Stadium
@@ -8677,6 +8975,8 @@ http://s1.merlive.am/starsinema/index.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Stargate
+https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="轮播 / FAST · Movies",Star Maa Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="轮播 / FAST · Movies",START Air
@@ -8743,12 +9043,14 @@ https://d2tdny619yw5x1.cloudfront.net/master.m3u8
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="轮播 / FAST · Movies",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8
-#EXTINF:-1 tvg-id="SummerofMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="轮播 / FAST · Movies",Summer of Movies
+#EXTINF:-1 tvg-id="SummerofMovies.us@CA" group-title="轮播 / FAST · 影视动漫",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="轮播 / FAST · Movies",Sundance TV (Poland) (576i)
 http://92.114.85.87:8003/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="轮播 / FAST · Movies",Sundance TV (Spain)
 https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Super Channel Hearties
+https://jmp2.uk/plu-6729d651c7626f0008b5dacf.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Supermarket Sweep
 https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Supermarket Sweep
@@ -8763,6 +9065,8 @@ https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" group-title="轮播 / FAST · 影视动漫",Survivor
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
+#EXTINF:-1 tvg-id="Survivor.us@SD" group-title="轮播 / FAST · 影视动漫",Survivor
+https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="轮播 / FAST · Series",Survivor
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Swamp People
@@ -8787,6 +9091,8 @@ https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us@SD" group-title="轮播 / FAST · 影视动漫",Tastemade Travel
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Taxi
+https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
 #EXTINF:-1 tvg-id="TCM.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="轮播 / FAST · Classic;Movies",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCM.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="轮播 / FAST · Classic;Movies",TCM West
@@ -8833,13 +9139,15 @@ https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD" group-title="轮播 / FAST · 影视动漫",The Andy Griffith Show
 https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@CA" group-title="轮播 / FAST · 影视动漫",The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png" group-title="轮播 / FAST · Classic",The Andy Griffith Show CA
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us@SD" tvg-logo="" group-title="轮播 / FAST · Classic",The Archive
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us@US" group-title="轮播 / FAST · 影视动漫",The Asylum
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
-#EXTINF:-1 tvg-id="TheBeverlyHillbillies.us@CA" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png" group-title="轮播 / FAST · Classic;Comedy",The Beverly Hillbillies
+#EXTINF:-1 tvg-id="TheBeverlyHillbillies.us@CA" group-title="轮播 / FAST · 影视动漫",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" group-title="轮播 / FAST · 影视动漫",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
@@ -8851,18 +9159,24 @@ https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playl
 https://carolburnett-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us@SD" group-title="轮播 / FAST · 影视动漫",The Challenge
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
+#EXTINF:-1 tvg-id="TheChallenge.us@CA" group-title="轮播 / FAST · 影视动漫",The Challenge
+https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us@CA" tvg-logo="https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png" group-title="轮播 / FAST · Series",The Challenge CA
 https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="轮播 / FAST · Comedy;Series",The Chat Show Channel
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="TheConners.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="轮播 / FAST · Comedy;Series",The Conners
+#EXTINF:-1 tvg-id="TheConners.us@SD" group-title="轮播 / FAST · 影视动漫",The Conners
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Curse of Oak Island
 https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us@SD" group-title="轮播 / FAST · 影视动漫",The Design Network
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Dick Van Dyke Show
+https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8
 #EXTINF:-1 tvg-id="TheDoctors.us@HD" tvg-logo="https://i.imgur.com/2sAz8dZ.png" group-title="轮播 / FAST · Series",The Doctors
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Dog Whisperer with Caesar Millan
+https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD" group-title="轮播 / FAST · 影视动漫",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD" group-title="轮播 / FAST · 影视动漫",The First
@@ -8871,6 +9185,8 @@ https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8
 https://pb-bp21lplgw5225.akamaized.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The First 48 by A&E
 https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" group-title="轮播 / FAST · 影视动漫",The Graham Norton Show
+https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
 #EXTINF:-1 tvg-id="TheHillTV.us@SD" group-title="轮播 / FAST · 影视动漫",The Hill
 https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Jack Hanna Channel
@@ -8881,6 +9197,8 @@ https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 https://d38ng35fgglvfs.cloudfront.net/The_Jim_Rome_Show.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD" group-title="轮播 / FAST · 影视动漫",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
+#EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@CA" group-title="轮播 / FAST · 影视动漫",The Judge Judy Channel
+https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png" group-title="轮播 / FAST · Series",The Judge Judy Channel CA
 https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD" group-title="轮播 / FAST · 影视动漫",The LEGO Channel
@@ -8903,6 +9221,8 @@ https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Martha Stewart Channel
 https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Martha Stewart Channel
+https://jmp2.uk/plu-67b4b8b47d8025b1610a0a57.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="轮播 / FAST · Movies",The Movie Club
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="轮播 / FAST · Movies",The Movie Club +2
@@ -8913,6 +9233,8 @@ https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us@US" group-title="轮播 / FAST · 影视动漫",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" group-title="轮播 / FAST · 影视动漫",The New Detectives
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="轮播 / FAST · Series",The New Detectives (Germany)
 https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.se@SE" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" group-title="轮播 / FAST · Series",The New Detectives (Sweden)
@@ -8927,14 +9249,22 @@ https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us@LatAm" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="轮播 / FAST · Series",The New Detectives (United States) LatAm
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Outer Limits
+https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@US" group-title="轮播 / FAST · 影视动漫",The Pet Collective
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@US" group-title="轮播 / FAST · 影视动漫",The Pet Collective
 https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@US" group-title="轮播 / FAST · 影视动漫",The Pet Collective
+https://jmp2.uk/plu-62e92b5fca869f00078f0162.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRight.us@HD" group-title="轮播 / FAST · 影视动漫",The Price Is Right
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRight.us@CA" group-title="轮播 / FAST · 影视动漫",The Price is Right
+https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" group-title="轮播 / FAST · 影视动漫",The Price Is Right: The Barker Era
 https://jmp2.uk/plu-5f7791b8372da90007fd45e6.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" group-title="轮播 / FAST · 影视动漫",The Price is Right: The Barker Era
+https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
 #EXTINF:-1 tvg-id="TheRifleman.us@SD" group-title="轮播 / FAST · 影视动漫",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The Ringer from Spotify
@@ -8961,6 +9291,8 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="轮播 / FAST · Series",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" group-title="轮播 / FAST · 影视动漫",The Weather Network
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.us@SD" group-title="轮播 / FAST · 影视动漫",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="轮播 / FAST · Classic;Series",The Wild Wild West (Sweden)
@@ -8973,6 +9305,8 @@ https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",The X-Files
+https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 tvg-id="TheYoungTurks.us@SD" group-title="轮播 / FAST · 影视动漫",The Young Turks (TYT)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa@SD" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="轮播 / FAST · Classic",Thikrayat TV
@@ -8987,10 +9321,14 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 https://d1v8bveimipl8w.cloudfront.net/This_Old_House_Makers.m3u8
 #EXTINF:-1 tvg-id="ThreesCompany.us@SD" group-title="轮播 / FAST · 影视动漫",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+#EXTINF:-1 tvg-id="ThreesCompany.us@CA" group-title="轮播 / FAST · 影视动漫",Three's Company
+https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 tvg-id="ThreesCompany.us@CA" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="轮播 / FAST · Series",Three's Company CA
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="轮播 / FAST · Movies",Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Thrillers 365
+https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="轮播 / FAST · Animation;Kids",Tiguerito TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",TikTok Radio
@@ -9001,7 +9339,7 @@ https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" group-title="轮播 / FAST · 影视动漫",Tiny House Nation
 https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="轮播 / FAST · Series",Tiny House Nation
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD" group-title="轮播 / FAST · 影视动漫",Tiny House Nation
 https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="轮播 / FAST · Series",Tlnovelas Latin America
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
@@ -9015,6 +9353,8 @@ https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
 https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl@SD" group-title="轮播 / FAST · 影视动漫",TNA Wrestling
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",TNA Wrestling
+https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="轮播 / FAST · Series",TNT Novelas
 http://158.172.155.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@ColombiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="轮播 / FAST · Series",TNT Novelas ColombiaHD
@@ -9059,20 +9399,28 @@ https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/
 https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk@SD" group-title="轮播 / FAST · 影视动漫",Top Gear
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD" group-title="轮播 / FAST · 影视动漫",Top Gear
+https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Top Rank Classics
 https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Torque
 https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TortuesNinjaTV.us@CA" group-title="轮播 / FAST · 影视动漫",Tortues Ninja TV
+https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us@SD" group-title="轮播 / FAST · 影视动漫",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-logo="https://i.imgur.com/sXkluxg.png" group-title="轮播 / FAST · Series",Tosh.0 (United States)
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us@US" group-title="轮播 / FAST · 影视动漫",TOTALLY TURTLES
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.us@CA" group-title="轮播 / FAST · 影视动漫",Totally Turtles
+https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="ToughJobs.us@SD" group-title="轮播 / FAST · 影视动漫",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 #EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="轮播 / FAST · Series",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-id="TransformersTV.us@CA" group-title="轮播 / FAST · 影视动漫",Transformers
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us@SD" group-title="轮播 / FAST · 影视动漫",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",TruBlu
@@ -9087,6 +9435,8 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNetwork.us@WCVBTV" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="轮播 / FAST · Series",True Crime Network WCVB-TV
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" group-title="轮播 / FAST · 影视动漫",True Crime Now
+https://jmp2.uk/plu-69dd5d9dceddf13a1a7e39c2.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="轮播 / FAST · Movies",TV1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="轮播 / FAST · Movies",TV1000 Russian Kino Global
@@ -9156,6 +9506,8 @@ https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",UFC
 https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",UFC
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" group-title="轮播 / FAST · 影视动漫",Unbeaten Sports Channel
@@ -9182,6 +9534,8 @@ http://45.6.4.35/TELENOVELAS/index.m3u8
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" group-title="轮播 / FAST · 影视动漫",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" group-title="轮播 / FAST · 影视动漫",Unsolved Mysteries
+https://jmp2.uk/plu-62e924f2be69bc0007b7d53d.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@UK" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="轮播 / FAST · Series",Unsolved Mysteries UK
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",UnXplained Zone
@@ -9296,7 +9650,7 @@ http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 http://46.53.200.153:7777/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-logo="https://i.imgur.com/OQXEhqu.png" group-title="轮播 / FAST · Entertainment;Movies",Vinh Long TV 3
 https://dethich.pw/thvl3/index.m3u8
-#EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="轮播 / FAST · Series",Walker Texas Ranger
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" group-title="轮播 / FAST · 影视动漫",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD" tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="轮播 / FAST · Classic",Wanted: Dead or Alive
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
@@ -9326,7 +9680,7 @@ https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us@SD" group-title="轮播 / FAST · 影视动漫",WeatherSpy
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="WeedsNurseJackie.us@SD" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="轮播 / FAST · Series",Weeds & Nurse Jackie
+#EXTINF:-1 tvg-id="WeedsNurseJackie.us@SD" group-title="轮播 / FAST · 影视动漫",Weeds / Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Western Bound
 https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
@@ -9340,6 +9694,8 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Wicked Tuna
 https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Wicked Tuna
+https://jmp2.uk/plu-6728c561daad7f000881ac83.m3u8
 #EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-logo="https://i.imgur.com/kyVB8Ik.png" group-title="轮播 / FAST · Series",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="轮播 / FAST · 影视动漫",WildEarth
@@ -9356,6 +9712,8 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="轮播 / FAST · 影视动漫",Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="轮播 / FAST · 影视动漫",Willow Sports
+https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Winter Vibes
 https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" group-title="轮播 / FAST · 影视动漫",Wipeout Xtra
@@ -9368,10 +9726,14 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",World of Love Island
 https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8
+#EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",World of Love Island
+https://jmp2.uk/plu-667d419415f35c0008942dd1.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" group-title="轮播 / FAST · 影视动漫",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" group-title="轮播 / FAST · 影视动漫",World Poker Tour
 https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US" group-title="轮播 / FAST · 影视动漫",World Poker Tour
+https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",World’s Most Evil Killers
 https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="轮播 / FAST · Animation;Kids",WOW Kidz
@@ -9446,6 +9808,8 @@ https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="YoMTV.us@SD" group-title="轮播 / FAST · 影视动漫",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us@CA" group-title="轮播 / FAST · 影视动漫",Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" group-title="轮播 / FAST · 影视动漫",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" group-title="轮播 / FAST · 影视动漫",Yu Gi Oh
@@ -11611,8 +11975,6 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BestofDanceTV.ee@SD" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="国际 · Music",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" group-title="国际 · Entertainment",Best of Dr Phil
-https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 #EXTINF:-1 tvg-id="BestofMTV.se@SE" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" group-title="国际 · Entertainment",Best of MTV
 https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
 #EXTINF:-1 tvg-id="BestofMTV.se@DK" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" group-title="国际 · Entertainment",Best of MTV DK
@@ -12863,8 +13225,6 @@ https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KZTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/KZTV_logo%2C_introduced_in_2021.svg/960px-KZTV_logo%2C_introduced_in_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="国际 · General",CBS KZTV
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="国际 · News",CBS News 24/7
-https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="国际 · News",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="国际 · News",CBS News Bay Area
@@ -13430,8 +13790,6 @@ http://143.14.134.107/167/index.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de@ES" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="国际 · Comedy",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="国际 · Comedy",Comedy Central Animation
-https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" group-title="国际 · Comedy",Comedy Central Brasil
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="国际 · Comedy",Comedy Central en Espanol
@@ -14303,8 +14661,6 @@ https://dethich.pw/dongnai3/index.m3u8
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th@SD" tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="国际 · General",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="DoraTV.us@CA" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="国际 · Kids",Dora TV
-https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="国际 · Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr@SD" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="国际 · Religious",Dost TV
@@ -15205,8 +15561,6 @@ https://stream.ottlive.co.in/fatehtv/index.m3u8
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="国际 · Religious",Fazal TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="国际 · Documentary",FBI Files
-https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="国际 · Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FCKLovinderne.se@DK" tvg-logo="https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png" group-title="国际 · Sports",FCK Lovinderne
@@ -15243,8 +15597,6 @@ http://valashop.online:8090/fieritv.m3u8
 http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" group-title="国际 · Music",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="国际 · Sports",FIFA+
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="国际 · Sports",FIFA+ French
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="国际 · Sports",FIFA+ German
@@ -15362,8 +15714,6 @@ https://techtraveleat.in/stream.m3u8?id=foodxp
 #EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" http-referrer="https://www.foratedio.com" group-title="国际 · Comedy",Fora Tedio TV
 #EXTVLCOPT:http-referrer=https://www.foratedio.com
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="国际 · Documentary",Forensic Files
-https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="Forlaekkertillove.se@DK" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png" group-title="国际 · Entertainment",For laekker til love
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="国际 · News",Formula
@@ -15619,8 +15969,6 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="GardeniasTV.gt@SD" tvg-logo="https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png" group-title="国际 · Entertainment",Gardenias TV [Not 24/7]
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-#EXTINF:-1 tvg-id="GarfieldandFriends.us@US" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="国际 · Kids",Garfield and Friends
-https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GarshomTV.uk@SD" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="国际 · Culture",Garshom TV [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="国际 · General",Garuda TV
@@ -20413,8 +20761,6 @@ https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us@SD" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="国际 · Legislative",Monroe County TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="国际 · Outdoor;Sports",Monster Jam
-https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="国际 · Lifestyle",Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MontecristiDigital8.do@HD" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="国际 · General",Montecristi Digital 8
@@ -20443,8 +20789,6 @@ https://stream.moranettv.hu/live/index.m3u8
 http://45.167.2.138:8000/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-id="MoreGraceTV.ng@SD" tvg-logo="https://i.imgur.com/DNTeCQt.png" group-title="国际 · Religious",More Grace TV [Not 24/7]
 https://atechgroupuk.site/ETV.m3u8
-#EXTINF:-1 tvg-id="MorePlutoTVComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="国际 · Comedy",More Pluto TV Comedy
-https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="国际 · Sports",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="MorningCloudTV.ke@SD" tvg-logo="https://i.imgur.com/Lxfd2ip.png" group-title="国际 · Religious",Morning Cloud TV
@@ -20604,8 +20948,6 @@ https://ma.anixa.tv/clips/stream/mtv/playlist.php
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="MTVJerseys.de@ES" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="国际 · Entertainment",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
-#EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" group-title="国际 · Entertainment",MTV Jersey Shore
-https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-id="MTVJovenseMaes.us@BR" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="国际 · Entertainment",MTV Jovens e Maes
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="国际 · Entertainment",MTV Latin America
@@ -22679,8 +23021,6 @@ https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="国际 · Entertainment",Pluto TV Retro
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroKid.us@CA" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" group-title="国际 · Kids",Pluto TV Retro Kid
-https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScherzierisate.de@IT" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" group-title="国际 · Comedy",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShore.de@IT" tvg-logo="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png" group-title="国际 · Entertainment",Pluto TV Shore
@@ -25412,8 +25752,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="国际 · Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-id="SpongeBobSquarePants.us@CA" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="国际 · Kids",SpongeBob SquarePants
-https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz@SD" tvg-logo="https://i.imgur.com/vIV7x6n.png" group-title="国际 · Sports",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Sport1.cz@HD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="国际 · Sports",Sport1 HD
@@ -26776,8 +27114,6 @@ https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRight.us@CA" tvg-logo="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png" group-title="国际 · Entertainment",The Price Is Right CA
 https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
-#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" tvg-logo="https://i.imgur.com/LuE8Wl4.png" group-title="国际 · Entertainment",The Price Is Right: The Barker Era
-https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
 #EXTINF:-1 tvg-id="TheUnmute.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/unmute.png" group-title="国际 · News",The Unmute
 https://stream.ottlive.co.in/unmute/index.m3u8
 #EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="国际 · Music",The Voice
@@ -26790,8 +27126,6 @@ https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="国际 · Weather",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="国际 · Weather",The Weather Network
-https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-id="TheWordNetwork.us@SD" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="国际 · Religious",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TheYellowCouchwithJeremyLynch.de@GB" tvg-logo="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png" group-title="国际 · Entertainment",The Yellow Couch with Jeremy Lynch
