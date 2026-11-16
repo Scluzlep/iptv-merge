@@ -9,7 +9,7 @@
   {"name":"iptv-org-world", "url":"https://iptv-org.github.io/iptv/index.m3u", "scope":"global", "priority":75},
   {"name":"iptv-org-pluto-us", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u", "scope":"loop", "priority":90},
   {"name":"iptv-org-samsung-us", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u", "scope":"loop", "priority":90},
-  {"name":"iptv-org-pluto-gb", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gb_pluto.m3u", "scope":"loop", "priority":85},
+  {"name":"iptv-org-pluto-ca", "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_pluto.m3u", "scope":"loop", "priority":85},
   {"name":"iptv-org-movies", "url":"https://iptv-org.github.io/iptv/categories/movies.m3u", "scope":"loop", "priority":83},
   {"name":"iptv-org-series", "url":"https://iptv-org.github.io/iptv/categories/series.m3u", "scope":"loop", "priority":83},
   {"name":"iptv-org-animation", "url":"https://iptv-org.github.io/iptv/categories/animation.m3u", "scope":"loop", "priority":80},
