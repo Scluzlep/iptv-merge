@@ -2599,6 +2599,8 @@ https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@US" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="轮播 / FAST · Series",Acapulco Shore US
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
+#EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="轮播 / FAST · Movies",Action 24 [Not 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="轮播 / FAST · Movies",Adrenalina Pura TV
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="轮播 / FAST · Movies",Adrenalina Pura TV Brazil
@@ -7571,6 +7573,8 @@ https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" tvg-logo="https://i.imgur.com/oKU5KeW.png" group-title="国际 · Religious",Middle East TV
 https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png" group-title="国际 · Entertainment",Midnight Pulp
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="国际 · News",Milenio Television
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="MilitaryHistory.us@SD" tvg-logo="https://i.imgur.com/S1SnpoA.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="国际 · Documentary",Military History
@@ -9086,8 +9090,6 @@ https://cdn.streammy.events/siris/playout/playlist.m3u8
 https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="国际 · Undefined",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr@SD" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="国际 · General",Skai TV
-http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SkonhetsfallanDanmark.se@SE" tvg-logo="https://images.pluto.tv/channels/643808dce0789d00084797f6/colorLogoPNG.png" group-title="国际 · Entertainment",Skonhetsfallan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 tvg-id="Skonneombygninger.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png" group-title="国际 · Cooking;Lifestyle",Skonne ombygninger
@@ -9164,10 +9166,6 @@ https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="国际 · Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="国际 · Sports",Sportitalia 24
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="国际 · Sports",Sportitalia Motori
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="国际 · Sports",Sports Television [Not 24/7]
 https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="国际 · Sports",Sporty TV
@@ -9182,10 +9180,6 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="国际 · Entertainment",Star Bharat (United Kingdom)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr@SD" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="国际 · Entertainment",Star Channel (Greece)
-http://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="国际 · Entertainment",Star Channel International
-https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="国际 · General;News",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="国际 · Entertainment",Star Maa HD
