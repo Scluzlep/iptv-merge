@@ -25,6 +25,8 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 http://n12.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1 tvg-name="BCC中广流行" tvg-logo="https://live.fanmingming.cn/tv/BCC中广流行.png" group-title="国内 · 📻广播电台",BCC中广流行
 http://n14.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@HD" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="国内 · General",Beijing Satellite TV HD
+http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-name="Bloomberg Asia" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg Asia.png" group-title="国内 · 🌏国际电视",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg Originals.png" group-title="国内 · 🌏国际电视",Bloomberg Originals
@@ -4939,8 +4941,6 @@ https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Go.au@Sydney" tvg-logo="https://i.imgur.com/RLijQI8.png" group-title="国际 · Entertainment;Kids",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="9laLomaTV.es@SD" tvg-logo="https://i.imgur.com/WQP3el2.png" group-title="国际 · General",9 la Loma TV
-https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="9Life.au@Sydney" tvg-logo="https://i.imgur.com/HlJOrGI.png" group-title="国际 · Lifestyle",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="国际 · Music",9X Jalwa
@@ -8899,6 +8899,10 @@ https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="国际 · Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="国际 · Sports",Sportitalia 24
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="国际 · Sports",Sportitalia Motori
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="国际 · Sports",Sports Television [Not 24/7]
 https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="国际 · Sports",Sporty TV

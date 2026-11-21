@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-11-21T07:07:03+00:00",
+  "generated_at_utc": "2026-11-21T19:15:41+00:00",
   "validation": "URL format and public address checks; backup ranking; URL dedup; DNS-family lookup. No bandwidth/stream tests.",
   "count": {
     "all": 14633,
     "china": 2486,
     "global": 13690,
     "loop": 2296,
-    "ipv4": 14176,
-    "ipv6": 4867
+    "ipv4": 14174,
+    "ipv6": 4869
   },
   "candidates": 16830,
   "discarded": {

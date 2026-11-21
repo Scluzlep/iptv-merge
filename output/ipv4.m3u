@@ -22503,6 +22503,8 @@ https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" http-referrer="https://odysee.com/" group-title="国际 · News",Press TV
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="国际 · News",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="国际 · Culture",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="国际 · Undefined",Priklyucheniya HD
@@ -23824,10 +23826,6 @@ https://www.rtmplus.cz/live/1-playlist.m3u8
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="国际 · Undefined",RTN (Argentina) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="RTNBDivertissement.bi@SD" tvg-logo="https://i.imgur.com/vNCVLuO.png" group-title="国际 · Entertainment",RTNB Divertissement
-https://tv2-stream.rtnb.bi/hls/master.m3u8
-#EXTINF:-1 tvg-id="RTNBTV.bi@SD" tvg-logo="https://i.imgur.com/xfR5P9F.png" group-title="国际 · General",RTNB TV
-https://tv1-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTNC.cd@SD" tvg-logo="https://i.imgur.com/oVXO950.jpeg" group-title="国际 · General",RTNC
 https://kali.vdopanel.com:3850/live/masterlive.m3u8
 #EXTINF:-1 tvg-id="RTNC3.cd@SD" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" group-title="国际 · General",RTNC 3
@@ -24221,8 +24219,6 @@ https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaaTV.pk@SD" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="国际 · Undefined",Samaa TV
 http://103.250.28.74:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="国际 · Undefined",Samara-GIS [Not 24/7]
-https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SamarraTV.iq@SD" tvg-logo="https://i.imgur.com/7uQoIXi.png" group-title="国际 · Undefined",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="国际 · News",Samay Kolkata
