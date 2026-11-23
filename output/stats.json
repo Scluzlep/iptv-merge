@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-11-22T19:39:47+00:00",
+  "generated_at_utc": "2026-11-23T07:38:03+00:00",
   "validation": "URL format and public address checks; backup ranking; URL dedup; DNS-family lookup. No bandwidth/stream tests.",
   "count": {
-    "all": 14578,
+    "all": 14571,
     "china": 2486,
-    "global": 13634,
-    "loop": 2295,
-    "ipv4": 14123,
-    "ipv6": 4849
+    "global": 13614,
+    "loop": 2282,
+    "ipv4": 14118,
+    "ipv6": 4869
   },
-  "candidates": 16774,
+  "candidates": 16754,
   "discarded": {
     "duplicate": 354,
     "backup_cap": 300
@@ -59,7 +59,7 @@
     },
     {
       "name": "iptv-org-world",
-      "entries": 11499,
+      "entries": 11492,
       "ok": true,
       "error": ""
     },
@@ -83,7 +83,7 @@
     },
     {
       "name": "iptv-org-movies",
-      "entries": 782,
+      "entries": 771,
       "ok": true,
       "error": ""
     },
@@ -95,13 +95,13 @@
     },
     {
       "name": "iptv-org-animation",
-      "entries": 168,
+      "entries": 167,
       "ok": true,
       "error": ""
     },
     {
       "name": "iptv-org-classic",
-      "entries": 84,
+      "entries": 83,
       "ok": true,
       "error": ""
     }
