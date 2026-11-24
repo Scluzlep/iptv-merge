@@ -890,8 +890,6 @@ https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Cold Case Files by A&E
 https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Colors Bangla Cinema
-http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Colors Cineplex Bollywood
@@ -1917,8 +1915,6 @@ https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9.m3u8
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Lifetime Movie Favorites
 https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="轮播 / FAST · Movies",Lifetime Movies
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Lifetime Movies Love & Drama
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title="轮播 / FAST · 影视动漫",like Gecko) Chrome/120.0.0.0 Safari/537.36' group-title='Movies',AMC Europe Hungary
@@ -3600,12 +3596,10 @@ https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" tvg-logo="https://i.imgur.com/dGlKoLW.png" http-referrer="https://rotana.net/" group-title="轮播 / FAST · Movies",Rotana Cinema Egypt
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-logo="https://i.imgur.com/pGgp38I.png" http-referrer="https://rotana.net/" group-title="轮播 / FAST · Movies",Rotana Cinema KSA
-#EXTVLCOPT:http-referrer=https://rotana.net/
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" http-referrer="https://rotana.net/" group-title="轮播 / FAST · Classic",Rotana Classic
-#EXTVLCOPT:http-referrer=https://rotana.net/
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="轮播 / FAST · Movies",Rotana Cinema KSA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="轮播 / FAST · Classic",Rotana Classic
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaDrama.sa@SD" tvg-logo="https://i.imgur.com/btnhPjZ.png" http-referrer="https://rotana.net/" group-title="轮播 / FAST · Series",Rotana Drama
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -3877,8 +3871,6 @@ https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="轮播 / FAST · Movies",Star Maa Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="轮播 / FAST · Movies",Star Movies (India) HD
-http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="轮播 / FAST · Movies",START Air
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="轮播 / FAST · Movies",Star Tamil Television
@@ -3915,8 +3907,6 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="轮播 / FAST · Movies",Star Utsav Movies
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
-#EXTINF:-1 tvg-id="StarzCinema.us@East" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="轮播 / FAST · Movies",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" group-title="轮播 / FAST · 影视动漫",Stingray DJAZZ
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStorageWars.us@SD" group-title="轮播 / FAST · 影视动漫",Storage Wars by A&E
@@ -4536,6 +4526,8 @@ https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
 #EXTINF:-1 tvg-id="" group-title="轮播 / FAST · 影视动漫",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="轮播 / FAST · Movies",Warner Channel
+http://181.78.197.59:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="轮播 / FAST · Movies",Warner Channel Colombia
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="轮播 / FAST · Movies",Warner Channel Mexico
